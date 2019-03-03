@@ -27,3 +27,15 @@ Robot capabilities:
 12- Ability to copy the file</br>
 13- File transferability</br>
 14- Most importantly, the ability to run cmd commands with the robot</br> 
+
+
+</br>
+<p>
+<b>Examples Command:</b></br>
+<b>get:</b>    [download file like > get:c:\text.txt]</br>
+<b>cmd:</b>    [run cmd script like > cmd:dir c:\]</br>
+<b>open:</b>   [open the file like > open:c:\sample.exe]</br>
+<b>delete:</b> [delete file like > delete:c:\netbook.txt]</br>
+<b>copy:</b>   [copy file like > copy:c:\a.txt->c:\windows\a.txt]</br>
+<b>move:</b>   [move file like > move:c:\a.txt->d:\a.txt]</br>
+</p>
