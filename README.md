@@ -13,18 +13,19 @@ The software is designed to be your entertainment as a license to your friends
 
 
 Robot capabilities:
+</br>
 
-1- Get public and private public IP addresses
-2- Get a list of running programs along with PID
-3- Get screen shot at the moment of the server
-4- Get list of users who have admin access
-5- Get list of users with normal access
-6- Get hardware specifications for the server
-7- Ability to restart the server
-8- Ability to download the file on the server and send it to you
-9- Ability to open and execute file types on a remote server
-10- Ability to send the file to the robot and save to the server
-11- File deletion ability
-12- Ability to copy the file
-13- File transferability
-14- Most importantly, the ability to run cmd commands with the robot
+1- Get public and private public IP addresses</br>
+2- Get a list of running programs along with PID</br>
+3- Get screen shot at the moment of the server</br>
+4- Get list of users who have admin access</br>
+5- Get list of users with normal access</br>
+6- Get hardware specifications for the server</br>
+7- Ability to restart the server</br>
+8- Ability to download the file on the server and send it to you</br>
+9- Ability to open and execute file types on a remote server</br>
+10- Ability to send the file to the robot and save to the server</br>
+11- File deletion ability</br>
+12- Ability to copy the file</br>
+13- File transferability</br>
+14- Most importantly, the ability to run cmd commands with the robot</br> 
