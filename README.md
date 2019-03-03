@@ -4,8 +4,11 @@ May monitoring software is run by telegram robot
 
 With this robot, you can monitor and control your system remotely with minimal features
 The robot's mode of operation is that it listens to messages received by connecting to telegram servers and responds to commands.
-The software is designed to be your entertainment as a license to your friends
+The software is designed to be your entertainment as a license to your friends </br>
 
+<img src="cm.png" style="width:100%;"/>
+<img src="sample.png" style="width:60%;"/>
+<img src="cm_l.png" style="width:100%;"/>
 
 Robot capabilities:
 </br>
