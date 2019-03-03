@@ -1,0 +1,8 @@
+ctypes
+Tkinter
+pywin32
+pytest-shutil
+wmi
+requests
+Pillow
+python-telegram-bot
