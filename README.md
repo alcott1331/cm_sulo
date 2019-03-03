@@ -7,7 +7,7 @@ The robot's mode of operation is that it listens to messages received by connect
 The software is designed to be your entertainment as a license to your friends
 
 ![Screenshot](cm.png)
-
+<img src="sample.png" width="300" height="250" />
 ![Screenshot](cm_l.png)
 
 
