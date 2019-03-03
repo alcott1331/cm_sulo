@@ -1,4 +1,4 @@
-# CM Sulo Bot
+# CM Sulo Bot<img src="icon.ico" width="60" height="50"/>
 May monitoring software is run by telegram robot
 
 
