@@ -1,4 +1,4 @@
-ctypes
+ntplib
 Tkinter
 pywin32
 pytest-shutil
